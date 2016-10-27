@@ -1,0 +1,17 @@
+Package: hyr
+Type: Package
+Title: Command HYSPLIT with R
+Version: 0.0.5
+Date: 2016-03-03
+Author: Stuart K. Grange
+Maintainer: Stuart K. Grange <stuart.grange@ricardo.com>
+Description: Command HYSPLIT with R
+License: GPL (>= 2) (need to check before releasing, most likely
+        incorrect).
+Imports: stringr, lubridate, plyr, RPostgreSQL,
+Suggests: openair, dplyr
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Built: R 3.3.0; ; 2016-10-25 13:38:44 UTC; windows
+RemoteType: url
+RemoteUrl: http://172.31.113.9:3838/hyr/package/hyr.zip
